@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 1.892 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Bluesky-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Bluesky-Posts-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Bluesky Posts Dataset Sample** umfasst **1.892 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
